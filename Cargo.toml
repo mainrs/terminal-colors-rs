@@ -1,0 +1,9 @@
+[package]
+name = "terminal-colors"
+description = "Ergonomic string coloring for the terminal"
+license = "Apache-2.0 OR MIT"
+version = "0.0.0"
+authors = ["SirWindfield <SirWindfield@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
